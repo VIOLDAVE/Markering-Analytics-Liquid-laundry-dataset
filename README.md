@@ -1,6 +1,6 @@
 # Markering-Analytics-Liquid-laundry-dataset
 
-Importing
+Instructions
 Upon importing the dataset, you will notice that some tweaking might be necessary.
 Try to adjust the import parameters directly in order to import the database effectively.
 Verify that there are 52 households and 348 purchase occasions
